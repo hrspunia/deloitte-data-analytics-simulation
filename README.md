@@ -1,4 +1,4 @@
-# Deloitte Australia Data Analytics Simulation – Forage
+# Deloitte Australia Data Analytics Simulation 
 
 This repository documents a forensic data analysis project completed as part of the **Deloitte Australia Virtual Internship (Forage)**.  
 It simulates real-world consulting scenarios involving transaction analysis, fraud detection, and data-driven decision-making.
