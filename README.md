@@ -59,8 +59,5 @@ _“Dynamic dashboard screenshot is available in the `/images` folder of this re
 
 ---
 
-## 📝 Disclaimer
 
-This project is based on a **simulated case study** from **Deloitte Australia’s Virtual Internship** hosted on [Forage](https://www.theforage.com).  
-All content has been adapted purely for educational and portfolio purposes.
 
